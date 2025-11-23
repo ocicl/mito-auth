@@ -4,6 +4,6 @@ User authorization for Mito classes.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/fukamachi/mito-auth.git |
-| commit  | 4190d8a                                        |
+| commit  | 262f0f1                                        |
 | systems | mito-auth                                      |
 |---------+------------------------------------------------|
